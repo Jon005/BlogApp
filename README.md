@@ -1,0 +1,1 @@
+# Django_Blo_proj
