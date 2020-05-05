@@ -1,1 +1,1 @@
-# Django_Blo_proj
+# Django_Blog_proj
